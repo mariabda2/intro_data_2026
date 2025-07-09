@@ -6,7 +6,7 @@ Bienvenid@s al curso de **Fundamentos de Ciencia de Datos**. Este es un <big><fo
 
 Indícanos cualquier duda, sugerencia o incidencia, o inicia una discusión con la comunidad del curso en el siguiente foro. Las discusiones son en abierto. Si quieres participar tendrás que utilizar tu usuario GitHub.
 
-<center><big><a href="https://github.com/mariabda2/intro_data_2025/discussions">FORO DE DISCUSIONES DEL CURSO</a></big></center>
+<center><big><a href="https://github.com/mariabda2/intro_data_2025/discussions">Foro de discusiones del curso</a></big></center>
 
 
 ## Intencionalidades formativas
@@ -38,15 +38,13 @@ Te recomendamos que **organices tu tiempo** para seguirlo de manera pausada pero
 
 - Hay **dos tipos** de notebooks: (1) <font color='red'>**contenido y explicación**</font> que se usan para apoyar los conceptos que explicamos en clase; y (2) <font color='red'>**laboratorios**</font> que tienes que resolver para consolidar tu aprendizaje.
 
-- <font color="red">**Podrás acceder**</font> a videos y notebooks de contenido y de talleres.
+## Evaluación  
 
-## Evaluación y certificado 
+<font color='red'>**Al estar matrículado en este curso como parte de un programa de la Universidad de Antioquia**</font> consulta la página correspondiente para informarte sobre las evaluaciones y las fechas límite para las entregas.
 
-- Para pasar el curso abierto tendrás que solucionar al menos el <font color='red'>**90% de los ejercicios de los laboratorios**</font>. Cada ejercicio y laboratorio se califica con una nota entre 0 y 5. Por tanto, tendrás que tener una calificación <font color="red">**4.5 o mayor**</font> para pasar el curso y obtener el certificado.
+## Grupo de investigación
 
--  <font color='red'>**Si estás matriculado en una sesión como parte de un programa de la Universidad de Antioquia**</font> consulta la página correspondiente para informarte sobre las evaluaciones y las fechas límite para las entregas.
-
-- Nuestro grupo de investigación <font color='red'>**IN2LAB: Intelligent Information Systems Lab**</font> de la **Facultad de Ingeniería** de la **Universidad de Antioquia, Medellín, Colombia**, que está acreditado como **A1** ante el Ministerio de Ciencias, de Colombia. Los profesores que estamos al frente de este grupo en el área de inteligencia artificial somos:
+Nuestro grupo de investigación <font color='red'>**IN2LAB: Intelligent Information Systems Lab**</font> de la **Facultad de Ingeniería** de la **Universidad de Antioquia, Medellín, Colombia**, que está acreditado como **A1** ante el Ministerio de Ciencias, de Colombia. Los profesores que estamos al frente de este grupo en el área de inteligencia artificial somos:
 
     -**Maria Bernarda Salazar Sánchez**, Machine Learning. [google scholar](https://scholar.google.com/citations?user=SY3ZiQ0AAAAJ&hl=es)
 
