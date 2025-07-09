@@ -45,13 +45,9 @@ Te recomendamos que **organices tu tiempo** para seguirlo de manera pausada pero
 ## Grupo de investigación
 
 Nuestro grupo de investigación <font color='red'>**IN2LAB: Intelligent Information Systems Lab**</font> de la **Facultad de Ingeniería** de la **Universidad de Antioquia, Medellín, Colombia**, que está acreditado como **A1** ante el Ministerio de Ciencias, de Colombia. Los profesores que estamos al frente de este grupo en el área de inteligencia artificial somos:
-
-    -**Maria Bernarda Salazar Sánchez**, Machine Learning. [google scholar](https://scholar.google.com/citations?user=SY3ZiQ0AAAAJ&hl=es)
-
-    -**Raúl Ramos Pollán**, Inteligencia artificial, Deep Learning. [google scholar](https://scholar.google.com/citations?user=QObKt9IAAAAJ&hl=en&oi=ao)
-
+    - **Maria Bernarda Salazar Sánchez**, Machine Learning. [google scholar](https://scholar.google.com/citations?user=SY3ZiQ0AAAAJ&hl=es)
+    - **Raúl Ramos Pollán**, Inteligencia artificial, Deep Learning. [google scholar](https://scholar.google.com/citations?user=QObKt9IAAAAJ&hl=en&oi=ao)
     - **Julián David Arias Londoño**, Machine Learning, Deep Learning. [google scholar](https://scholar.google.com/citations?hl=en&user=ZTdSU3wAAAAJ)
-
     - **Carlos Andrés Mera Banguero**, Machine Learning, Bioinformática. [google scholar](https://scholar.google.com/citations?user=YjBUdJYAAAAJ&hl=en)
 
 ----
