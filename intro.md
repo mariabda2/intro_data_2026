@@ -2,13 +2,6 @@
 
 Bienvenid@s al curso de **Fundamentos de Ciencia de Datos**. Este es un <big><font color='red'>**CURSO**</font></big>, ofrecido en la **Facultad de Ingeniería** de la **Universidad de Antioquia**, en Medellín, Colombia.
 
-## Discusiones, Q&A, incidencias
-
-Indícanos cualquier duda, sugerencia o incidencia, o inicia una discusión con la comunidad del curso en el siguiente foro. Las discusiones son en abierto. Si quieres participar tendrás que utilizar tu usuario GitHub.
-
-<center><big><a href="https://github.com/mariabda2/intro_data_2025/discussions">Foro de discusiones del curso</a></big></center>
-
-
 ## Intencionalidades formativas
 - Desarrollar una comprensión clara de qué es la ciencia de datos, su alcance, importancia y aplicaciones en diferentes industrias.
 - Fomentar el pensamiento crítico y analítico basado en datos
@@ -17,6 +10,11 @@ Indícanos cualquier duda, sugerencia o incidencia, o inicia una discusión con 
 - Fomentar habilidades colaborativas y éticas en el uso de datos
 - Aplicar el conocimiento en casos prácticos y proyectos
 
+## Organización del contenido
+
+- El contenido de cada **UNIDAD** está desarrollado a través de <font color='red'>**encuentros presenciales**</font> y <font color="red">**Notebooks de Jupyter**</font>, en Python, ejecutables directamente sobre Google Colab.
+
+- Hay **dos tipos** de notebooks: (1) <font color='red'>**contenido y explicación**</font> que se usan para apoyar los conceptos que explicamos en clase; y (2) <font color='red'>**sesiones prácticas (laboratorios)**</font> que tienes que resolver para consolidar tu aprendizaje.
 
 ## Dedicación
 
@@ -36,11 +34,13 @@ La programación completa del curso, que incluye la distribución de contenidos 
 | Informe en formato artículo                        | 25%             |
 | Examen final                                       | 25%             |
 
-## Organización del contenido
 
-- El contenido de cada **UNIDAD** está desarrollado a través de <font color='red'>**encuentros presenciales**</font> y <font color="red">**Notebooks de Jupyter**</font>, en Python, ejecutables directamente sobre Google Colab.
 
-- Hay **dos tipos** de notebooks: (1) <font color='red'>**contenido y explicación**</font> que se usan para apoyar los conceptos que explicamos en clase; y (2) <font color='red'>**sesiones prácticas (laboratorios)**</font> que tienes que resolver para consolidar tu aprendizaje.
+## Discusiones, Q&A, incidencias
+
+Indícanos cualquier duda, sugerencia o incidencia, o inicia una discusión con la comunidad del curso en el siguiente foro. Las discusiones son en abierto. Si quieres participar tendrás que utilizar tu usuario GitHub.
+
+<center><big><a href="https://github.com/mariabda2/intro_data_2025/discussions">Foro de discusiones del curso</a></big></center>
 
 
 ## Grupo de investigación
