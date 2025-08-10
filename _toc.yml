@@ -1,0 +1,6 @@
+format: jb-article
+root: intro
+
+sections:
+- file: FCD_U1_Sesion1a_PresentacionCurso
+
