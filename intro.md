@@ -27,6 +27,7 @@ Te recomendamos que **organices tu tiempo** para seguirlo de manera pausada pero
 La programación completa del curso, que incluye la distribución de contenidos por unidad, las clases programadas, actividades clave y tipos de evaluación, está disponible en el archivo [Programación PDF](Local\file\Programacion_FCD_2025-02.pdf). Allí podrás consultar qué se trabaja cada semana y cómo se evalúa cada componente.
 
 ## 📊 **Evaluación**
+<font color='red'>**Al estar matrículado en este curso como parte de un programa de la Universidad de Antioquia**</
 
 | **Momento de evaluación**                         | **Porcentaje** |
 | -------------------------------------------------- | -------------- |
@@ -41,9 +42,6 @@ La programación completa del curso, que incluye la distribución de contenidos 
 
 - Hay **dos tipos** de notebooks: (1) <font color='red'>**contenido y explicación**</font> que se usan para apoyar los conceptos que explicamos en clase; y (2) <font color='red'>**sesiones prácticas (laboratorios)**</font> que tienes que resolver para consolidar tu aprendizaje.
 
-## Evaluación  
-
-<font color='red'>**Al estar matrículado en este curso como parte de un programa de la Universidad de Antioquia**</font> consulta la página correspondiente para informarte sobre las evaluaciones y las fechas límite para las entregas.
 
 ## Grupo de investigación
 
