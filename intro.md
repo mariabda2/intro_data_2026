@@ -37,7 +37,7 @@ La programación completa del curso, que incluye la distribución de contenidos 
 
 ## Organización del contenido
 
-- El contenido de cada **UNIDAD** está desarrollado a través de <font color='red'>**encuentros síncronicos o presenciales**</font> y <font color="red">**Notebooks de Jupyter**</font>, en Python, ejecutables directamente sobre Google Colab.
+- El contenido de cada **UNIDAD** está desarrollado a través de <font color='red'>**encuentros presenciales**</font> y <font color="red">**Notebooks de Jupyter**</font>, en Python, ejecutables directamente sobre Google Colab.
 
 - Hay **dos tipos** de notebooks: (1) <font color='red'>**contenido y explicación**</font> que se usan para apoyar los conceptos que explicamos en clase; y (2) <font color='red'>**sesiones prácticas (laboratorios)**</font> que tienes que resolver para consolidar tu aprendizaje.
 
