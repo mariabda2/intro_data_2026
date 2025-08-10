@@ -23,14 +23,17 @@ Indícanos cualquier duda, sugerencia o incidencia, o inicia una discusión con 
 Si ya conoces Python y tienes bases de estadística, el curso te llevará aproximadamente <font color="red">**64 horas**</font> de dedicación. 
 Te recomendamos que **organices tu tiempo** para seguirlo de manera pausada pero constante. 
  
+## 🗓️ **Programación de clases y actividades evaluativas**
+La programación completa del curso, que incluye la distribución de contenidos por unidad, las clases programadas, actividades clave y tipos de evaluación, está disponible en el archivo [Programación PDF](Local\file\Programacion_FCD_2025-02.pdf). Allí podrás consultar qué se trabaja cada semana y cómo se evalúa cada componente.
 
-## Con los siguientes principios
+## 📊 **Evaluación**
 
-- <font color="red">Aprender ciencia de datos</font> implica cometer <font color="red">todos los errores necesarios</font> para comprender mejor cada etapa del proceso. Este curso está diseñado para que explores y experimentes directamente en Jupyter Notebooks, ejecutables en Google Colab, de modo que puedas interactuar con los datos y construir tu propio aprendizaje.
-- Acepta el reto de <font color="red">programar en Python</font>. Uno de los primeros módulos está dedicado a este lenguaje, para que aprendas desde cero o refresques tus conocimientos si ya tienes experiencia previa.
-- <font color="red">Todos pueden aprender a programar</font>. Si alguna vez creaste una fórmula en Excel o automatizaste una tarea, <font color="red">ya diste tus primeros pasos en programación</font>. Si es tu primera vez, necesitarás algo de tiempo y práctica. Si ya programaste antes, solo tendrás que adaptarte a la sintaxis y lógica de Python.
-- En este curso dejamos de lado las visiones mágicas sobre la inteligencia artificial. Aquí trabajamos con <font color="red">modelos construidos a partir de datos reales</font>, cuyo desempeño dependerá de qué tan bien comprendas y controles el proceso completo de análisis y modelado.
-- El aprendizaje en ciencia de datos es <font color="red">experimental e iterativo</font>. Muchas respuestas las obtendrás al implementar pequeños experimentos con datos, interpretar resultados y mejorar continuamente tus soluciones.
+| **Momento de evaluación**                         | **Porcentaje** |
+| -------------------------------------------------- | -------------- |
+| Sesiones prácticas (5 sesiones × 5% cada una)      | 25%             |
+| Proyecto (2 entregables)                           | 25%             |
+| Informe en formato artículo                        | 25%             |
+| Examen final                                       | 25%             |
 
 ## Organización del contenido
 
