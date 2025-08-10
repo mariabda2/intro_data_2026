@@ -36,7 +36,7 @@ Te recomendamos que **organices tu tiempo** para seguirlo de manera pausada pero
 
 - El contenido de cada **UNIDAD** está desarrollado a través de <font color='red'>**encuentros síncronicos o presenciales**</font> y <font color="red">**Notebooks de Jupyter**</font>, en Python, ejecutables directamente sobre Google Colab.
 
-- Hay **dos tipos** de notebooks: (1) <font color='red'>**contenido y explicación**</font> que se usan para apoyar los conceptos que explicamos en clase; y (2) <font color='red'>**sesiones prácticas (laboratorios)**</font> que tienes que resolver para consolidar tu aprendizaje.
+- Hay **dos tipos** de notebooks: (1) <font color='red'>**contenido y explicación**</font> que se usan para apoyar los conceptos que explicamos en clase; y (2) <font color='red'>**laboratorios**</font> que tienes que resolver para consolidar tu aprendizaje.
 
 ## Evaluación  
 
@@ -44,7 +44,7 @@ Te recomendamos que **organices tu tiempo** para seguirlo de manera pausada pero
 
 ## Grupo de investigación
 
-Nuestro grupo de investigación <font color='red'>**IN2LAB: Intelligent Information Systems Lab**</font> de la **Facultad de Ingeniería** de la **Universidad de Antioquia, Medellín, Colombia**, que está acreditado como **A** ante el Ministerio de Ciencia Tecnología e Innovación, de Colombia. Los profesores que estamos al frente de este grupo en el área de inteligencia artificial somos:
+Nuestro grupo de investigación <font color='red'>**IN2LAB: Intelligent Information Systems Lab**</font> de la **Facultad de Ingeniería** de la **Universidad de Antioquia, Medellín, Colombia**, que está acreditado como **A1** ante el Ministerio de Ciencia Tecnología e Innovación, de Colombia. Los profesores que estamos al frente de este grupo en el área de inteligencia artificial somos:
 
 - **Maria Bernarda Salazar Sánchez**, Machine Learning, signal processing [[google scholar](https://scholar.google.com/citations?user=SY3ZiQ0AAAAJ&hl=es)].
 - **Raúl Ramos Pollán**, Inteligencia artificial, Deep Learning [[google scholar](https://scholar.google.com/citations?user=QObKt9IAAAAJ&hl=en&oi=ao)].
