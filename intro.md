@@ -15,11 +15,6 @@ Bienvenid@s al curso de **Fundamentos de Ciencia de Datos**. Este es un <big><fo
 - El contenido de cada **UNIDAD** está desarrollado a través de <font color='red'>encuentros presenciales y <big><font color='red'><b>Notebooks de Jupyter</b></font></big></font> en Python, ejecutables directamente sobre Google Colab.
 
 - Hay **dos tipos** de notebooks: (1) <font color='red'>contenido y explicación</font> que se usan para apoyar los conceptos que explicamos en clase; y (2) <font color='red'>sesiones prácticas (laboratorios)</font> que tienes que resolver para consolidar tu aprendizaje.
-
-## Dedicación
-
-Si ya conoces Python y tienes bases de estadística, el curso te llevará aproximadamente <font color="red">**64 horas**</font> de dedicación. 
-Te recomendamos que **organices tu tiempo** para seguirlo de manera pausada pero constante. 
  
 ## 🗓️ **Programación de clases y actividades evaluativas**
 La programación completa del curso, que incluye la distribución de contenidos por unidad, las clases programadas, actividades clave y tipos de evaluación, está disponible en el aula virtual. Allí podrás consultar qué se trabaja cada semana y cómo se evalúa cada componente.
