@@ -1,6 +1,6 @@
 # Información del curso 
 
-Bienvenid@s al curso de **Fundamentos de Ciencia de Datos**. Este es un <big><font color='red'>**CURSO**</font></big>, ofrecido en la **Facultad de Ingeniería** de la **Universidad de Antioquia**, en Medellín, Colombia.
+Bienvenid@s al curso de **Fundamentos de Ciencia de Datos**. Este es un <big><font color='red'><b>CURSO</b></font></big>, ofrecido en la **Facultad de Ingeniería** de la **Universidad de Antioquia**, en Medellín, Colombia.
 
 ## Intencionalidades formativas
 - Desarrollar una comprensión clara de qué es la ciencia de datos, su alcance, importancia y aplicaciones en diferentes industrias.
@@ -12,9 +12,9 @@ Bienvenid@s al curso de **Fundamentos de Ciencia de Datos**. Este es un <big><fo
 
 ## Organización del contenido
 
-- El contenido de cada **UNIDAD** está desarrollado a través de <font color='red'>**encuentros presenciales**</font> y <font color="red">**Notebooks de Jupyter**</font>, en Python, ejecutables directamente sobre Google Colab.
+- El contenido de cada **UNIDAD** está desarrollado a través de <font color='red'>encuentros presenciales</font> y <font color="red">**Notebooks de Jupyter**</font>, en Python, ejecutables directamente sobre Google Colab.
 
-- Hay **dos tipos** de notebooks: (1) <font color='red'>**contenido y explicación**</font> que se usan para apoyar los conceptos que explicamos en clase; y (2) <font color='red'>**sesiones prácticas (laboratorios)**</font> que tienes que resolver para consolidar tu aprendizaje.
+- Hay **dos tipos** de notebooks: (1) <font color='red'>contenido y explicación</font> que se usan para apoyar los conceptos que explicamos en clase; y (2) <font color='red'>sesiones prácticas (laboratorios)</font> que tienes que resolver para consolidar tu aprendizaje.
 
 ## Dedicación
 
@@ -40,7 +40,7 @@ Al estar matrículado en este curso como parte de un programa de la Universidad 
 
 Indícanos cualquier duda, sugerencia o incidencia, o inicia una discusión con la comunidad del curso en el siguiente foro. Las discusiones son en abierto. Si quieres participar tendrás que utilizar tu usuario GitHub.
 
-<center><big><a href="https://github.com/mariabda2/intro_data_2025/discussions">Foro de discusiones del curso</a></big></center>
+<center><big><a href="https://github.com/mariabda2/intro_data_2026/discussions">Foro de discusiones del curso</a></big></center>
 
 
 ## Grupo de investigación
