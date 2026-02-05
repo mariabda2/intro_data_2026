@@ -5,3 +5,6 @@ sections:
   sections:
   - file: Intro_python
 - file: titles/U1_description
+  sections:
+  - file: "Clase 01 - Introducci\xF3n al Machine Learning"
+  - file: "Clase 02 - Regresi\xF3n lineal y regresi\xF3n log\xEDstica"
