@@ -1,6 +1,7 @@
-format: jb-book
+format: jb-article
 root: intro
-chapters:
-  - file: FCD_U1_Sesion1a_PresentacionCurso
-  - file: FCD_U1_Sesion1b_IntroCienciaDatos
-
+sections:
+- file: titles/U0_IntroLabs
+  sections:
+  - file: Intro_python
+- file: titles/U1_description
