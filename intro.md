@@ -12,7 +12,7 @@ Bienvenid@s al curso de **Fundamentos de Ciencia de Datos**. Este es un <big><fo
 
 ## Organización del contenido
 
-- El contenido de cada **UNIDAD** está desarrollado a través de <font color='red'>encuentros presenciales</font> y <font color="red">**Notebooks de Jupyter**</font>, en Python, ejecutables directamente sobre Google Colab.
+- El contenido de cada **UNIDAD** está desarrollado a través de <font color='red'>encuentros presenciales y <big><font color='red'><b>Notebooks de Jupyter</b></font></big></font> en Python, ejecutables directamente sobre Google Colab.
 
 - Hay **dos tipos** de notebooks: (1) <font color='red'>contenido y explicación</font> que se usan para apoyar los conceptos que explicamos en clase; y (2) <font color='red'>sesiones prácticas (laboratorios)</font> que tienes que resolver para consolidar tu aprendizaje.
 
@@ -22,19 +22,10 @@ Si ya conoces Python y tienes bases de estadística, el curso te llevará aproxi
 Te recomendamos que **organices tu tiempo** para seguirlo de manera pausada pero constante. 
  
 ## 🗓️ **Programación de clases y actividades evaluativas**
-La programación completa del curso, que incluye la distribución de contenidos por unidad, las clases programadas, actividades clave y tipos de evaluación, está disponible en el archivo [Programación PDF](Local\file\Programacion_FCD_2025-02.pdf). Allí podrás consultar qué se trabaja cada semana y cómo se evalúa cada componente.
+La programación completa del curso, que incluye la distribución de contenidos por unidad, las clases programadas, actividades clave y tipos de evaluación, está disponible en el aula virtual. Allí podrás consultar qué se trabaja cada semana y cómo se evalúa cada componente.
 
 ## 📊 **Evaluación**
-Al estar matrículado en este curso como parte de un programa de la Universidad de Antioquia.
-
-| **Momento de evaluación**                         | **Porcentaje** |
-| -------------------------------------------------- | -------------- |
-| Sesiones prácticas (5 sesiones × 5% cada una)      | 25%             |
-| Proyecto (2 entregables)                           | 25%             |
-| Informe en formato artículo                        | 25%             |
-| Examen final                                       | 25%             |
-
-
+Al estar matrículado en este curso como parte de un programa de la Universidad de Antioquia, debes validar en el aula virtual la distribución de porcentajes asociados a las actividades evaluativas del curso.
 
 ## Discusiones, Q&A, incidencias
 
