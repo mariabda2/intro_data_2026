@@ -2,11 +2,14 @@
 # template from https://github.com/executablebooks/github-action-demo
 title: Fundamentos de Ciencia de Datos
 author: <b>Maria B. Salazar</b>/ Universidad de Antioquia
+copyright: "2026"
 logo: Local/imgs/U1/banner_fcd.jpg
+
 # Information about where the book exists on the web
 repository:
    url: https://github.com/mariabda2/intro_data_2026
    branch: master
+
 # Configure your Binder links, such as the URL of the BinderHub.
 launch_buttons:
   binderhub_url: ""
